@@ -1,0 +1,1 @@
+Demo app to demonstrate <https://github.com/grails/grails-core/issues/10991>.
